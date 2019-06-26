@@ -4,3 +4,7 @@ C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Core\obj\Debug\
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CoreCompileInputs.cache
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Core\obj\Debug\MyShop.Core.dll
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Core\obj\Debug\MyShop.Core.pdb
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Core\bin\Debug\FluentValidation.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Core\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Core\bin\Debug\FluentValidation.xml
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CopyComplete
