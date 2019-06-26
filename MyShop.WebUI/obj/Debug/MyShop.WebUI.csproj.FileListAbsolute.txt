@@ -104,3 +104,11 @@ C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\obj\Debug
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\obj\Debug\MyShop.WebUI.csproj.CopyComplete
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\obj\Debug\MyShop.WebUI.dll
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\obj\Debug\MyShop.WebUI.pdb
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\MyShop.Core.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\MyShop.DataAccess.InMemory.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\MyShop.DataAccess.SQL.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\MyShop.Services.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\MyShop.Core.pdb
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\MyShop.DataAccess.InMemory.pdb
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\MyShop.DataAccess.SQL.pdb
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\MyShop.Services.pdb

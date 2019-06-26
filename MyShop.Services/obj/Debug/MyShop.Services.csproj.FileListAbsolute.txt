@@ -1,0 +1,6 @@
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Services\bin\Debug\MyShop.Services.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Services\bin\Debug\MyShop.Services.pdb
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csprojAssemblyReference.cache
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb
