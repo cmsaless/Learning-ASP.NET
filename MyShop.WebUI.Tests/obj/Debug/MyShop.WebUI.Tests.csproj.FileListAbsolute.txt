@@ -22,7 +22,6 @@ C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.Owin.Security.dll
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\Owin.dll
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\MyShop.DataAccess.InMemory.dll
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\MyShop.Core.dll
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\EntityFramework.dll
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
@@ -47,7 +46,6 @@ C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.Owin.Security.xml
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\MyShop.DataAccess.InMemory.pdb
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\MyShop.Core.pdb
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\EntityFramework.xml
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml

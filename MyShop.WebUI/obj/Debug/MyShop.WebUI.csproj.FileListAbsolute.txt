@@ -112,3 +112,15 @@ C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\MySho
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\MyShop.DataAccess.InMemory.pdb
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\MyShop.DataAccess.SQL.pdb
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\MyShop.Services.pdb
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\Unity.Abstractions.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\Unity.Container.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\Unity.Mvc.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\WebActivatorEx.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\Unity.Abstractions.pdb
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\Unity.Container.pdb
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\Unity.Mvc.pdb
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\Unity.Mvc.xml
