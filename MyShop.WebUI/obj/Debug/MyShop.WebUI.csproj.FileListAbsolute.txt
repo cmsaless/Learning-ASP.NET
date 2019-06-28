@@ -124,3 +124,4 @@ C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\Unity
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\Unity.Container.pdb
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\Unity.Mvc.pdb
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\Unity.Mvc.xml
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI\bin\MyShop.DataAccess.SQL.dll.config

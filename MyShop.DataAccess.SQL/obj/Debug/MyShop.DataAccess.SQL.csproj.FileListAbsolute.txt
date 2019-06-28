@@ -4,3 +4,13 @@ C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.csproj.CoreCompileInputs.cache
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.dll
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.pdb
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\bin\Debug\MyShop.DataAccess.SQL.dll.config
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\bin\Debug\EntityFramework.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\bin\Debug\MyShop.Core.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\bin\Debug\MyShop.Core.pdb
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\bin\Debug\EntityFramework.xml
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.csproj.CopyComplete
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.Migrations.Initial.resources
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.csproj.GenerateResource.cache
