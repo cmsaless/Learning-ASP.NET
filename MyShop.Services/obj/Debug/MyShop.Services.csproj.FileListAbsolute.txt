@@ -4,3 +4,6 @@ C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Services\obj\De
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Services\bin\Debug\MyShop.Core.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Services\bin\Debug\MyShop.Core.pdb
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CopyComplete

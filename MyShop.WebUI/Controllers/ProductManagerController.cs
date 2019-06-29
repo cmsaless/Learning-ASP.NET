@@ -16,11 +16,16 @@ namespace MyShop.WebUI.Controllers
         IRepository<Product> context;
         IRepository<ProductCategory> productCategories;
 
-        public ProductManagerController(IRepository<Product> productContext, IRepository<ProductCategory> productCategoryContext)
+        public ProductManagerController()
         {
-            context = productContext;
-            productCategories = productCategoryContext;
+
         }
+
+        //public ProductManagerController(IRepository<Product> productContext, IRepository<ProductCategory> productCategoryContext)
+        //{
+        //    context = productContext;
+        //    productCategories = productCategoryContext;
+        //}
 
         public ActionResult Index()
         {
@@ -50,9 +55,6 @@ namespace MyShop.WebUI.Controllers
                 {
                     product.Image = product.ID + Path.GetExtension(file.FileName);
                     file.SaveAs(Server.MapPath("//Content//ProductImages//") + product.Image);
-                } else
-                {
-                    product.Image = "not real image";
                 }
 
                 context.Insert(product);
