@@ -14,3 +14,4 @@ C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.csproj.CopyComplete
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.Migrations.Initial.resources
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.csproj.GenerateResource.cache
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.DataAccess.SQL\obj\Debug\MyShop.DataAccess.SQL.Migrations.AddBasket.resources
