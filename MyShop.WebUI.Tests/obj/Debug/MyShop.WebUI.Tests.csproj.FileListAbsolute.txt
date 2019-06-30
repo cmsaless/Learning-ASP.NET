@@ -71,3 +71,5 @@ C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\Unity.Mvc.xml
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\MyShop.Services.dll
+C:\Users\chris\Coding\Personal\ASP.NET\Learning C#\MyShop\MyShop.WebUI.Tests\bin\Debug\MyShop.Services.pdb

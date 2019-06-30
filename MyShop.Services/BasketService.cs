@@ -5,8 +5,6 @@ using MyShop.Core.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Web;
 
 namespace MyShop.Services
@@ -71,7 +69,7 @@ namespace MyShop.Services
         public void AddToBasket(HttpContextBase httpContext, string productID)
         {
             Basket basket = GetBasket(httpContext, true);
-            BasketItem item = basket.BasketItems.FirstOrDefault(i => i.ID == productID);
+            BasketItem item = basket.BasketItems.FirstOrDefault(i => i.ProductID == productID);
 
             if (item == null)
             {
