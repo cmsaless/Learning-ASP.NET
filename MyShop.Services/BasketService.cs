@@ -34,6 +34,10 @@ namespace MyShop.Services
                 if (!string.IsNullOrEmpty(basketID))
                 {
                     basket = basketContext.Find(basketID);
+                    if (basket == null && createIfNull)
+                    {
+                        basket = CreateNewBasket(httpContext);
+                    }
                 } else
                 {
                     if (createIfNull)
@@ -148,6 +152,13 @@ namespace MyShop.Services
             {
                 return model;
             }
+        }
+
+        public void ClearBasket(HttpContextBase httpContext)
+        {
+            Basket basket = GetBasket(httpContext, false);
+            basket.BasketItems.Clear();
+            basketContext.Commit();
         }
     }
 }
